@@ -7,19 +7,19 @@
 1.  Ubuntu 25.04
 2.  Ubuntu 24.04 LTS
 3.  Ubuntu 22.04 LTS
-4.  Ubuntu 18.04
-5.  Ubuntu 16.04
+4.  Ubuntu 18.04 LTS
+5.  Ubuntu 16.04 LTS
 
 6.  Xubuntu 25.10 Installation
 7.  Xubuntu 25.04
 8.  Xubuntu 24.04 LTS
 9.  Xubuntu 22.04 LTS
-10. Xubuntu 20.04
+10. Xubuntu 20.04 LTS
 
 11. Lubuntu 25.04
 12. Lubuntu 24.04 LTS
 13. Lubuntu 22.04 LTS
-14. Lubuntu 20.04
+14. Lubuntu 20.04 LTS
 
 15. Bodhi Linux V7
 16. Bodhi Linux V6
@@ -33,7 +33,7 @@
 
 21. Kubuntu 22.04 LTS
 
-22. Ubuntu Budgie 22.04
+22. Ubuntu Budgie 22.04 LTS
 
 23. Linux Mint 22.1
 24. Linux Mint 21.3
