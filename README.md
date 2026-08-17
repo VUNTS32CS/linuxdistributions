@@ -107,10 +107,10 @@
 62. UEFI Shell
 
 63. Ultramarine Linux 43 (GNOME)
-–
+–-
 64. Pardus 25.1 (GNOME)
 65. Pardus 23.4 (GNOME)
-–
+–-
 66. ZorinOS 18.1 Core
 ––
 67. Fedora 44 Beta (GNOME)
@@ -120,14 +120,14 @@
 70. Debian Stable 13.5 Trixie (GNOME)
 
 71. GParted Partition Manager Live .ISO
-–
+–-
 72. PikaOS Niri
 73. PikaOS KDE Plasma
-–
+–-
 74. Ultramarine Linux 44 (KDE Plasma)
 
 75. Nobara 43
-–
+–-
 76. Artix OpenRC (KDE Plasma)
 77. Artix s6-init (KDE Plasma)
 –
