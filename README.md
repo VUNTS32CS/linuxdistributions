@@ -10,11 +10,15 @@
 4.  Ubuntu 18.04 LTS
 5.  Ubuntu 16.04 LTS
 
+
 6.  Xubuntu 25.10 Installation
 7.  Xubuntu 25.04
 8.  Xubuntu 24.04 LTS
 9.  Xubuntu 22.04 LTS
 10. Xubuntu 20.04 LTS
+
+
+
 
 11. Lubuntu 25.04
 12. Lubuntu 24.04 LTS
